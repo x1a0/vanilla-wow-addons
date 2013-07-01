@@ -1,0 +1,12 @@
+## Interface: 11200
+
+## Title: Quest CN
+## Notes: Chinese Quest Info.
+## Author: x1a0
+## Version: 1.0
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: QuestCN_SETTINGS, QuestCN_QUESTS
+
+QuestCN.lua
+QuestCN.xml

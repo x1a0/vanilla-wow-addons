@@ -1,0 +1,36 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">
+    <Frame name="QuestCNMain">
+        <Scripts>
+            <OnLoad>QuestCN_onLoad();</OnLoad>
+            <OnEvent>QuestCN_onEvent();</OnEvent>
+        </Scripts>
+
+        <Frames>
+            <Frame name="QuestCN_Detail" parent="UIParent">
+                <Size x="100" y="300" />
+                <Anchors>
+                    <Anchor point="CENTER"></Anchor>
+                </Anchors>
+                <Layers>
+                    <Layer>
+                        <FontString name="QuestCN_DetailText" inherits="GameFontNormal" justifyH="LEFT" justifyV="TOP">
+                            <Size x="100" y="300" />
+                            <Anchors>
+                                <Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="QuestCN_Detail">
+                                    <Offset>
+                                        <AbsDimension x="20" y="-20"/>
+                                    </Offset>
+                                </Anchor>
+                                <Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="QuestCN_Detail">
+                                    <Offset>
+                                        <AbsDimension x="-20" y="20"/>
+                                    </Offset>
+                                </Anchor>
+                            </Anchors>
+                        </FontString>
+                    </Layer>
+                </Layers>
+            </Frame>
+        </Frames>
+    </Frame>
+</Ui>
