@@ -4,3 +4,4 @@
 
 游戏截图：
 
+![Screenshot](https://raw.github.com/zhangxiao/vanilla-wow-addons/master/QuestCN/files/screenshot.jpg)
