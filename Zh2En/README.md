@@ -8,4 +8,6 @@
 
 ## 截图
 
+![slashcmd](https://raw.githubusercontent.com/x1a0/vanilla-wow-addons/master/Zh2En/screenshots/slashcmd.png)
 
+![dialog](https://raw.githubusercontent.com/x1a0/vanilla-wow-addons/master/Zh2En/screenshots/dialog.png)
