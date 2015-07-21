@@ -1,0 +1,15 @@
+{
+  "name": "Zh2En",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "x1a0 <zhangxiao@xzhang.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^1.4.0",
+    "crawler": "^0.4.3"
+  }
+}
