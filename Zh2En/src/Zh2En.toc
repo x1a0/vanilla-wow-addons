@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: 中文 -> English
+## Notes: For the horde
+## Version: 1.0
+Zh2En.lua
+Zh2En.xml
